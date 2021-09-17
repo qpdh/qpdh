@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+https://qpdh.tistory.com/
+
+https://www.acmicpc.net/user/qpdh1924
 <!--
 **qpdh/qpdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
