@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=qpdh1924)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qpdh1924">
+
+<img align='center' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qpdh1924">
 
 https://qpdh.tistory.com/
 
